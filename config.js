@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['62857341580627, '62857341580627','62857341580627', '62857341580627', '62857341580627'] // Letakan nomor kamu disini
+global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -53,9 +53,9 @@ global.thumbfoto = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
-global.kandang = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
-global.kolam = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
-global.thanks = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
+global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
+global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
+global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
 
 global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
 
