@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['62857341580627, '62857341580627','62857341580627', '62857341580627', '62857341580627'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -47,15 +47,15 @@ global.author = '091102'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© R-Txzy' //change the watermark 
-global.image = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/74ee3213700db6534e59a.png'
+global.watermark = '© Arifhidayat' //change the watermark 
+global.image = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
-global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
-global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
-global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
+global.kandang = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
+global.kolam = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
+global.thanks = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
 
 global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
 
